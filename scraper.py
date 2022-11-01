@@ -38,4 +38,9 @@ def print_all_p_that_citations_needed():
     for i in all_p:
         print(i)
         print("\n")
+        
 print_all_p_that_citations_needed()
+
+
+
+
